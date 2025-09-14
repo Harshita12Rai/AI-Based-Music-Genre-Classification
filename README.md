@@ -50,7 +50,7 @@ git clone [https://github.com/your-username/ai-music-classifier.git](https://git
 ## Usage
 Once the installation is complete, you can start the Streamlit application.
 
-```streamlit run app.py```
+```streamlit run Music_Genre_App.py```
 
 
 This will run the web app in your browser, where you can upload audio files for real-time genre classification.
